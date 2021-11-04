@@ -19,6 +19,10 @@
 	width: 70%;
 }
 
+.btnContainer {
+	margin-bottom: 0.5rem;
+}
+
 .item blockquote {
 	margin: 0;
 	text-align: left;
@@ -47,5 +51,6 @@
 		display: flex;
 		justify-content: flex-end;
 		margin-top: 1rem;
+		margin-bottom: 0;
 	}
 }
